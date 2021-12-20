@@ -1,0 +1,15 @@
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\bin\Debug\net5.0\BlazorPokedex.Services.deps.json
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\bin\Debug\net5.0\BlazorPokedex.Services.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\bin\Debug\net5.0\ref\BlazorPokedex.Services.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\bin\Debug\net5.0\BlazorPokedex.Services.pdb
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\bin\Debug\net5.0\BlazorPokedex.Models.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\bin\Debug\net5.0\BlazorPokedex.Models.pdb
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\BlazorPokedex.Services.csprojAssemblyReference.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\BlazorPokedex.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\BlazorPokedex.Services.AssemblyInfoInputs.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\BlazorPokedex.Services.AssemblyInfo.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\BlazorPokedex.Services.csproj.CoreCompileInputs.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\BlazorPokedex.Services.csproj.CopyComplete
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\BlazorPokedex.Services.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\ref\BlazorPokedex.Services.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Services\obj\Debug\net5.0\BlazorPokedex.Services.pdb

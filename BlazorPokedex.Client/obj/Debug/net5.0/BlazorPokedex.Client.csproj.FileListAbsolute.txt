@@ -1,0 +1,1286 @@
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\BlazorPokedex.Client.StaticWebAssets.xml
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\ref\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\BlazorPokedex.Client.pdb
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Client.pdb
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.4.js.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Models.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Services.dll.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.4.js
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Models.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Services.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Models.pdb
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Services.pdb
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.csprojAssemblyReference.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.AssemblyInfoInputs.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.AssemblyInfo.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.csproj.CoreCompileInputs.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.RazorComponent.input.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pagination.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Pages\PokeDex.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Pages\PokemonDetails.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Pages\PokemonGrid.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.RazorComponent.output.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.TagHelpers.input.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.TagHelpers.output.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.RazorCoreGenerate.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Pages\Pagination.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Pages\PokeDex.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Pages\PokemonDetails.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Pages\PokemonGrid.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\7cgD6E2c.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JAUQ0VsF.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\SMQ0um+x.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\6+oVMaWq.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\TzCZwnHp.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\xoOYrVkt.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\gdSkH8k+.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\NPzLGqgi.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\uCSk5gEy.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0Y9yGKhK.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\6b+OdtjM.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\qwFqobUj.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\uU4KE0qT.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\yrLppYdj.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\I+RoF47P.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9q+D5bVV.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\XQs5QcFi.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\+tk7fBSH.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ja+iz4zS.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\wjWXGAiI.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Op0bWia5.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\cv9nGz3r.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\cOHImnxE.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\DN82dFCp.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\3ct+HEu9.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\aE0784hE.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\TBsP6M4o.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0Mz781xU.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5oJ+Lgs7.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\KsGmVil0.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\QY1dJIxL.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\TnxGDMKB.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Z5M4Gc8J.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\agS4hBxo.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\J1DguFcD.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\s++PzUBV.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\F+ehA3Hd.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\LW2VvkJk.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ktCQtfxX.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\U4Vo9BXB.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\DOq9ZN71.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\KzRcFwj7.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\kcemEP58.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\LtJrYncY.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\NfUCePTX.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\PNbmqzay.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\stRsgi1t.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Gn3CZVA0.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\OBWgysu7.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\bSXSmPBI.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Znj2HIbo.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\d+QVW+PH.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\gFIPhzij.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\6ZdwuBJg.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Acu5zhg+.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5DNwlRlP.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\zt9Cx8TS.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Wv6kYw4+.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ByyKLytA.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\OGIEky32.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\STkm6fdA.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\YQ5RPtQL.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\3HOHdWQo.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ylLdSkDC.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\r1bwkDyv.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0JTvFlkR.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\dR9LNFu9.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\LEr+9Ace.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\8E8EzmzB.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\vOPxFNE8.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\uGrzUs6J.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\4k1mfGMf.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Dc8++gDq.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JyjEwQOS.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\n4gPcSrJ.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\7d+1Kg5d.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\I+EBowkR.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\+8TBkIR+.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\t5F2K5f5.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\wlaB1+Z1.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\BFFVFkxD.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\+FfrKMHD.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5vUEdmPU.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\qDqxYadp.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Nz+dNd8V.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Aj4PV6+6.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\vZ4UbNCF.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jEPlYAIX.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\d2kXRV5S.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\bdEi+Hr6.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\IWt+sqqb.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jkeRNc5w.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\7qxDAFP3.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\CFnYAE5Z.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9iUgiA87.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\b0vpcZuj.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Q7Cj233G.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\M5kn49OI.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\iZRbuwFL.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\1hcUQpjc.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\zN4ZWqHN.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\IbyDBbzY.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ZBk+NfV6.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jTW3Hvek.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9DNIqCvU.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\PfsrIxeY.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\eQ6knZ6m.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\x7HG9giH.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0Kj1koz0.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\X3YODWFN.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\geh4l5sB.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\FQ7xvVWQ.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\vTJ91ADu.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\2WwTmpwb.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jQ+8HkN6.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0lLTGxLO.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\GCJqxNeu.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Avp9Xw0b.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\UqnxvjZH.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\IumAnuSO.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\E9uUAoAv.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\e+KKXkdn.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ifas6XXy.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ORiM6dLV.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\LNiuro7M.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\805x7r9s.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\58kelLCS.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Kqz8l8G+.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Tpce8VtL.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\bJDyBWiu.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0f8mge89.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\UEFGEUZK.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\e2Zwaj51.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\BKOFjA4z.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\b9+emra3.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Owe5+yzR.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\RAqCc86N.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\QLe+Kn7h.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\KpW5++8f.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\DZMr97Ju.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5wH0Ntt6.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\nrRssQ3v.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\j69N60m3.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jYUS476f.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\UtISp5+b.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\VRKw23fo.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\G+nxThZX.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JgX22OBN.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\AnmaiLaQ.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\cYJZXrJX.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5TKAq+B1.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\nuyWTSXf.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\nBNxm9Nr.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\veDBYuEK.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\iSHtZBwt.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\BBk6o6Rd.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\282NKt9+.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\HD4BnrF8.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\QtUOC7pc.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\cdfPimjT.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\QIBY3rt2.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\EUB2QeHV.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\M2+KqwgE.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JV3AeLVT.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\hnV+tF1T.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\FcYtU0+y.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\AKh+fN1x.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\GjWvugnn.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\gfPlUu5G.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\+HHsAzkE.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\P8ISxUW2.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\v9XITglm.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9njZ789H.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\WZqaKuee.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\py6gjmBB.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\l5SRcpWc.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\OHNAwH62.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\PTFu7rO0.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\FVU78Wf6.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\xOTLR7Uh.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ruAWmJ7W.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\F0a+fBSk.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\pEEVIx1A.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\uYZcpz1Q.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jyEIKlJM.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\gkhWgTbX.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\PvTgTE4a.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\kymm7T5l.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JTMmM8lc.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\8XakVPty.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\j1TKIJqy.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\HbyFmvJB.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9CaRcJq0.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\AFVMPls7.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jeg+ueGe.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\8F1Kc5Jo.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\bq5aYOjC.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\vYxCaHCY.gz
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\staticwebassets\BlazorPokedex.Client.StaticWebAssets.Manifest.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\staticwebassets\BlazorPokedex.Client.StaticWebAssets.xml
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\scopedcss\bundle\BlazorPokedex.Client.styles.css
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\scopedcss\projectbundle\BlazorPokedex.Client.bundle.scp.css
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.csproj.CopyComplete
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\ref\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\2 - BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.pdb
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\BlazorPokedex.Client.StaticWebAssets.xml
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\ref\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\BlazorPokedex.Client.pdb
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Client.pdb
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.4.js.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Models.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Services.dll.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.4.js
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Models.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Services.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Models.pdb
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\bin\Debug\net5.0\wwwroot\_framework\BlazorPokedex.Services.pdb
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.csprojAssemblyReference.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.AssemblyInfoInputs.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.AssemblyInfo.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.csproj.CoreCompileInputs.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.RazorComponent.input.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Pagination.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Pages\PokeDex.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Pages\PokemonDetails.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Pages\PokemonGrid.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.RazorComponent.output.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\RazorDeclaration\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.TagHelpers.input.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.TagHelpers.output.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.RazorCoreGenerate.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Pages\Pagination.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Pages\PokeDex.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Pages\PokemonDetails.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Pages\PokemonGrid.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\7cgD6E2c.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JAUQ0VsF.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\SMQ0um+x.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\6+oVMaWq.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\TzCZwnHp.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\xoOYrVkt.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\gdSkH8k+.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\NPzLGqgi.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\uCSk5gEy.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0Y9yGKhK.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\6b+OdtjM.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\qwFqobUj.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\uU4KE0qT.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\yrLppYdj.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\I+RoF47P.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9q+D5bVV.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\XQs5QcFi.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\+tk7fBSH.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ja+iz4zS.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\wjWXGAiI.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Op0bWia5.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\cv9nGz3r.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\cOHImnxE.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\DN82dFCp.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\3ct+HEu9.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\aE0784hE.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\TBsP6M4o.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0Mz781xU.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5oJ+Lgs7.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\KsGmVil0.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\QY1dJIxL.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\TnxGDMKB.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Z5M4Gc8J.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\agS4hBxo.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\J1DguFcD.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\s++PzUBV.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\F+ehA3Hd.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\LW2VvkJk.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ktCQtfxX.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\U4Vo9BXB.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\DOq9ZN71.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\KzRcFwj7.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\kcemEP58.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\LtJrYncY.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\NfUCePTX.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\PNbmqzay.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\stRsgi1t.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Gn3CZVA0.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\OBWgysu7.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\bSXSmPBI.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Znj2HIbo.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\d+QVW+PH.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\gFIPhzij.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\6ZdwuBJg.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Acu5zhg+.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5DNwlRlP.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\zt9Cx8TS.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Wv6kYw4+.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ByyKLytA.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\OGIEky32.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\STkm6fdA.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\YQ5RPtQL.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\3HOHdWQo.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ylLdSkDC.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\r1bwkDyv.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0JTvFlkR.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\dR9LNFu9.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\LEr+9Ace.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\8E8EzmzB.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\vOPxFNE8.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\uGrzUs6J.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\4k1mfGMf.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Dc8++gDq.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JyjEwQOS.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\n4gPcSrJ.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\7d+1Kg5d.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\I+EBowkR.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\+8TBkIR+.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\t5F2K5f5.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\wlaB1+Z1.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\BFFVFkxD.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\+FfrKMHD.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5vUEdmPU.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\qDqxYadp.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Nz+dNd8V.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Aj4PV6+6.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\vZ4UbNCF.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jEPlYAIX.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\d2kXRV5S.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\bdEi+Hr6.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\IWt+sqqb.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jkeRNc5w.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\7qxDAFP3.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\CFnYAE5Z.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9iUgiA87.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\b0vpcZuj.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Q7Cj233G.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\M5kn49OI.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\iZRbuwFL.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\1hcUQpjc.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\zN4ZWqHN.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\IbyDBbzY.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ZBk+NfV6.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jTW3Hvek.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9DNIqCvU.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\PfsrIxeY.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\eQ6knZ6m.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\x7HG9giH.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0Kj1koz0.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\X3YODWFN.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\geh4l5sB.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\FQ7xvVWQ.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\vTJ91ADu.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\2WwTmpwb.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jQ+8HkN6.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0lLTGxLO.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\GCJqxNeu.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Avp9Xw0b.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\UqnxvjZH.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\IumAnuSO.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\E9uUAoAv.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\e+KKXkdn.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ifas6XXy.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ORiM6dLV.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\LNiuro7M.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\805x7r9s.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\58kelLCS.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Kqz8l8G+.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Tpce8VtL.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\bJDyBWiu.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\0f8mge89.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\UEFGEUZK.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\e2Zwaj51.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\BKOFjA4z.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\b9+emra3.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\Owe5+yzR.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\RAqCc86N.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\QLe+Kn7h.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\KpW5++8f.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\DZMr97Ju.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5wH0Ntt6.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\nrRssQ3v.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\j69N60m3.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jYUS476f.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\UtISp5+b.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\VRKw23fo.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\G+nxThZX.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JgX22OBN.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\AnmaiLaQ.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\cYJZXrJX.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\5TKAq+B1.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\nuyWTSXf.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\nBNxm9Nr.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\veDBYuEK.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\iSHtZBwt.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\BBk6o6Rd.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\282NKt9+.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\HD4BnrF8.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\QtUOC7pc.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\cdfPimjT.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\QIBY3rt2.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\EUB2QeHV.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\M2+KqwgE.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JV3AeLVT.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\hnV+tF1T.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\FcYtU0+y.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\AKh+fN1x.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\GjWvugnn.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\gfPlUu5G.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\+HHsAzkE.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\P8ISxUW2.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\v9XITglm.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9njZ789H.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\WZqaKuee.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\py6gjmBB.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\l5SRcpWc.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\OHNAwH62.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\PTFu7rO0.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\FVU78Wf6.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\xOTLR7Uh.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\ruAWmJ7W.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\F0a+fBSk.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\pEEVIx1A.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\uYZcpz1Q.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jyEIKlJM.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\gkhWgTbX.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\PvTgTE4a.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\kymm7T5l.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\JTMmM8lc.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\8XakVPty.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\j1TKIJqy.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\HbyFmvJB.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\9CaRcJq0.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\AFVMPls7.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\jeg+ueGe.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\c+Lvj85f.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\FPqdLCj5.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\build-gz\BnTsvvZD.gz
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\staticwebassets\BlazorPokedex.Client.StaticWebAssets.Manifest.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\staticwebassets\BlazorPokedex.Client.StaticWebAssets.xml
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\scopedcss\bundle\BlazorPokedex.Client.styles.css
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\scopedcss\projectbundle\BlazorPokedex.Client.bundle.scp.css
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.csproj.CopyComplete
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\ref\BlazorPokedex.Client.dll
+C:\Users\Jasiel\Downloads\BlazorPokedex\BlazorPokedex.Client\obj\Debug\net5.0\BlazorPokedex.Client.pdb
