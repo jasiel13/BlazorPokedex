@@ -1,0 +1,41 @@
+﻿@using Models
+
+@if (Pokemons == null)
+{
+    <p><em>Cargando...</em></p>
+}
+else
+{
+    <div>
+        @for (int i = 0; i < NumberOfRows; i++)
+        {
+            <div class="row">
+                @*restringir numero de columnas a 6,apartir del 6 iterame los siguientes 6*@
+                @foreach (var poke in Pokemons.Skip(i * 6).Take(6))
+                {
+                    <div class="card pokeCard mb-4 bg-@(poke.Types.FirstOrDefault().PokemonType.Name)">
+                        <div class="card-body">
+                            <h4 class="card-title">@poke.Name</h4>
+                            <img src="@poke.Sprite.Front" class="img-fluid" alt="@poke.Name" />                                
+                        </div>
+                        <div class="moreinfo">
+                            @*el primero de los tipos que encuentre con ese nombre*@
+                            <span class="badge border rounded-pill bg-@(poke.Types.FirstOrDefault().PokemonType.Name)">
+                               <a href="/pokeDetails/@poke.Name" style="text-decoration:none" class="text-white"> Detalles</a>
+                            </span>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+}
+
+@code {
+
+    [Parameter]
+    public IEnumerable<Pokemon> Pokemons { get; set; }
+
+    [Parameter]
+    public int NumberOfRows { get; set; }//nunca va haber mas filas que de numero asignado por ejemplo 5
+}
