@@ -1,3 +1,3 @@
 # BlazorPokedex
-Consumir una api externa desde blazor
-Ejemplo en blazor wasm de como cosnumir una api de pokemon https://pokeapi.co/
+Consumir una api externa desde blazor.
+Para este ejemplo utilizamos la api de pokemon https://pokeapi.co/
