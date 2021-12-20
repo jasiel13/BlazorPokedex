@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gin89+xTloB22DzBzLJ73juEwC3rlsuDkJd744XC0D19KNRd56AF7D/WE8SRK3bYmLEDNdapP1ylJBSWvgybvg==",
+  "dgSpecHash": "iQt+2BV/MV/8jPK/bvwZmuTZq9fXSR14yZnJ6SjMyqry4Do4rJqTQWmQA6yqIX0hM71tIBMuw0pJcLhbzCDm7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jasiel\\Downloads\\BlazorPokedex\\BlazorPokedex.Services\\BlazorPokedex.Services.csproj",
+  "projectFilePath": "C:\\Users\\Jasiel\\Desktop\\Proyecto con Blazor Tutoriales\\BlazorPokedex\\BlazorPokedex.Services\\BlazorPokedex.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jasiel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jasiel\\Downloads\\BlazorPokedex\\BlazorPokedex.Models\\BlazorPokedex.Models.csproj": {}
+    "C:\\Users\\Jasiel\\Desktop\\Proyecto con Blazor Tutoriales\\BlazorPokedex\\BlazorPokedex.Models\\BlazorPokedex.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jasiel\\Downloads\\BlazorPokedex\\BlazorPokedex.Models\\BlazorPokedex.Models.csproj": {
+    "C:\\Users\\Jasiel\\Desktop\\Proyecto con Blazor Tutoriales\\BlazorPokedex\\BlazorPokedex.Models\\BlazorPokedex.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jasiel\\Downloads\\BlazorPokedex\\BlazorPokedex.Models\\BlazorPokedex.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Jasiel\\Desktop\\Proyecto con Blazor Tutoriales\\BlazorPokedex\\BlazorPokedex.Models\\BlazorPokedex.Models.csproj",
         "projectName": "BlazorPokedex.Models",
-        "projectPath": "C:\\Users\\Jasiel\\Downloads\\BlazorPokedex\\BlazorPokedex.Models\\BlazorPokedex.Models.csproj",
+        "projectPath": "C:\\Users\\Jasiel\\Desktop\\Proyecto con Blazor Tutoriales\\BlazorPokedex\\BlazorPokedex.Models\\BlazorPokedex.Models.csproj",
         "packagesPath": "C:\\Users\\Jasiel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jasiel\\Downloads\\BlazorPokedex\\BlazorPokedex.Models\\obj\\",
+        "outputPath": "C:\\Users\\Jasiel\\Desktop\\Proyecto con Blazor Tutoriales\\BlazorPokedex\\BlazorPokedex.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jasiel\\AppData\\Roaming\\NuGet\\NuGet.Config",

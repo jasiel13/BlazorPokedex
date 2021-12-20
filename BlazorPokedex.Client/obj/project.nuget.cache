@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PxH35OKc3cbzxWG11BLB1nZXItXvxf/ekBaBFM8rw3nnPGUbqw9AYMUfRXZIYAR8OZTt+OoqogQAC5fhIssC2g==",
+  "dgSpecHash": "5W7oIGZW6qv7RIRBttqvsWoqAvPHBgIFNkIjAITXstPHHcHPGE8C9oMJmq40mNea2GBiYuV3SXKz7vpgpslq2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jasiel\\Downloads\\BlazorPokedex\\BlazorPokedex.Client\\BlazorPokedex.Client.csproj",
+  "projectFilePath": "C:\\Users\\Jasiel\\Desktop\\Proyecto con Blazor Tutoriales\\BlazorPokedex\\BlazorPokedex.Client\\BlazorPokedex.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jasiel\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.4\\microsoft.aspnetcore.authorization.5.0.4.nupkg.sha512",
     "C:\\Users\\Jasiel\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.4\\microsoft.aspnetcore.components.5.0.4.nupkg.sha512",

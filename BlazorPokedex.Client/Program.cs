@@ -18,7 +18,7 @@ namespace BlazorPokedex.Client
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("#app");
 
-            //aqui es de donde va obtener las peticiones http en lugar de resivirlas el servidor iis express localhost las va a recibir de un api externa
+            //aqui es de donde va obtener las peticiones http en lugar de resivirlas el servidor iis express localhost las va a recibir de un api externas
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://pokeapi.co/api/v2/") });
             
             builder.Services.AddScoped<IPokeApiClient, PokeApiClient>();
